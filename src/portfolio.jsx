@@ -172,7 +172,7 @@ export default function Portfolio() {
               Nickname: Kean &nbsp;·&nbsp; Age: 24 &nbsp;·&nbsp; Nakhon Si Thammarat, Thailand
             </p>
             <div style={{ display: "flex", gap: "12px", flexWrap: "wrap" }}>
-              <a href="https://drive.google.com/file/d/1Iw_bS7KSNuDK0YtvgB-sPSyn2UQBSx1M/view?usp=sharing" className="btn-primary">Resume</a>
+              <a href="https://drive.google.com/file/d/1jGxcjT3Oan4wM2H44oJiuNBw-aWNh9Zh/view?usp=sharing" className="btn-primary">Resume</a>
               <a href="https://github.com/arin6532" target="_blank" rel="noreferrer" className="btn-ghost">
                 <GitHubIcon /> GitHub
               </a>
